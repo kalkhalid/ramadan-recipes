@@ -19,7 +19,7 @@ The website was built with only HTML and no CSS. It consists of a main index pag
 
 ## Demo
 
-![screen-gif](../img/ramadan-recipes.gif)
+![screen-gif](ramadan-recipes.gif)
 
 
 ## Acknowledgements
